@@ -231,6 +231,11 @@
       "repo": "eyulf/homelab",
       "description": "Homelab running a Kubernetes Cluster using libvirt, Terraform, Ansible, Kubeadm, and ArgoCD.",
       "gitops_tool": "argocd"
+    },
+    {
+      "repo": "shadyf/k8s-homelab",
+      "description": "Flux/GitOps setup, running k3s on a cluster with mixed architectures.",
+      "gitops_tool": "flux"
     }
   ],
   "chart_repositories": [
