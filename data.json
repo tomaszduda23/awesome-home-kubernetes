@@ -205,7 +205,7 @@
     },
     {
       "repo": "Truxnell/home-cluster",
-      "description": "Sidero/Talos cluster defined with GitOps/Flux.  Utilizing SOPS & Renovate.  Raspi4 8GB Master + 3 Intel NUC Workers.",
+      "description": "Talos cluster defined with GitOps/Flux.  Utilizing SOPS & Renovate.  Running on M700 Tinys & Intel NUC",
       "gitops_tool": "flux"
     },
     {
